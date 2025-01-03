@@ -1,4 +1,4 @@
-public class Pascal {
+public class pascal {
     public static void main(String[] args) {
         int rows = 5;
 
